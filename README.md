@@ -1,5 +1,4 @@
 # Playground
-Teresa Datta
 
 A place to play with `git`.
 
