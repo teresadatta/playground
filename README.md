@@ -1,4 +1,4 @@
-# Playground
+# THIS IS TERESA'S Playground
 
 A place to play with `git`.
 
